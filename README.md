@@ -2,7 +2,7 @@
 - 👀 I am a speech-language-pathologist turned contemporary womenswear fashion designer who is learning to code!
 - 🌱 I’m currently learning Javascript & React.
 - 💞️ I’m looking to collaborate on fun projects!
-- 📫 You can message me here!
+- 📫 
 
 <!---
 tamarafink/tamarafink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
